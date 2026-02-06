@@ -1,3 +1,4 @@
+#Word counter
 text = input("enter text:")
 words = len(text.split())
 chars = len(text)
