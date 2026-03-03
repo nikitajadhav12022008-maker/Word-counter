@@ -27,13 +27,13 @@ Make sure Python is installed on your system
 Clone the repository or download the file
 Run the program:
 ```bash
-python Word counter.py
+python word_counter.py
 ------
 
 ##📁Project structure:
 Word counter/
 |
-|______Word counter.py
+|______word_counter.py
 |______README.md
 ------
 
