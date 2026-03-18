@@ -19,11 +19,11 @@ This mini project counts the number of words, characters, and vowels in a given 
 
 ## 🧠 Concepts Used:
 
-Strings
-Loops
-Conditional statements
-User input
-Basic text processing
+-Strings
+-Loops
+-Conditional statements
+-User input
+-Basic text processing
 ---
 
 ## ▶️ How to Run:
