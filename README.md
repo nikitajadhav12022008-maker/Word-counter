@@ -16,7 +16,8 @@ This mini project counts the number of words, characters, and vowels in a given 
 
 ## 🛠 Technologies Used:
 
--Python 3
+- Python 3
+
 ---
 
 ## 🧠 Concepts Used:
