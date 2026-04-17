@@ -38,6 +38,15 @@ This mini project counts the number of words, characters, and vowels in a given 
 
 ---
 
+## 📌 Sample Output:
+
+- Enter text: Hello World
+- Words: 2
+- Characters: 11
+- Vowels: 3
+
+---
+
 ## ▶️ How to Run:
 
 Make sure Python is installed on your system..
@@ -49,13 +58,6 @@ python word_counter.py
 
 
 
-## 📌 Sample Output:
-
-Enter text: Hello World
-Words: 2
-Characters: 11
-Vowels: 3
----
 
 ##🔮 Future Improvements:
 -Count sentences
