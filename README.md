@@ -47,6 +47,15 @@ This mini project counts the number of words, characters, and vowels in a given 
 
 ---
 
+## 🔮 Future Improvements:
+
+- Count sentences
+- Ignore spaces while counting characters
+- Read text from a file
+- Convert into GUI application
+
+---
+
 ## ▶️ How to Run:
 
 Make sure Python is installed on your system..
@@ -59,12 +68,7 @@ python word_counter.py
 
 
 
-##🔮 Future Improvements:
--Count sentences
--Ignore spaces while counting characters
--Read text from a file
--Convert into GUI application
----
+
 
 ## 🙋‍♀️ Author:
 Nikita Jadhav
