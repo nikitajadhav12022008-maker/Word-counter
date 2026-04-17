@@ -7,10 +7,11 @@ This mini project counts the number of words, characters, and vowels in a given 
 
 ## 🚀 Features:
 
--Count total words
--Count total characters
--Count number of vowels
--Works for any user-entered text
+- Count total words
+- Count total characters
+- Count number of vowels
+- Works for any user-entered text
+
 ----
 
 ## 🛠 Technologies Used:
