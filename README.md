@@ -2,6 +2,7 @@
 
 A simple command-line Word Counter application built using Python.
 This mini project counts the number of words, characters, and vowels in a given text input.
+
 ---
 
 ## 🚀 Features:
