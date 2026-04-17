@@ -58,20 +58,18 @@ This mini project counts the number of words, characters, and vowels in a given 
 
 ## ▶️ How to Run:
 
-Make sure Python is installed on your system..
-Clone the repository or download the file.
-Run the program:
+- Make sure Python is installed on your system..
+- Clone the repository or download the file.
+- Run the program:
 ```bash
 python word_counter.py
+
 ---
 
-
-
-
-
-
 ## 🙋‍♀️ Author:
+
 Nikita Jadhav
+
 ---
 
 ##⭐ If you like this project, don’t forget to star the repository!
