@@ -30,6 +30,14 @@ This mini project counts the number of words, characters, and vowels in a given 
 
 ---
 
+## 📁Project structure:
+
+- Word counter/
+- |______word_counter.py
+- |______README.md
+
+---
+
 ## ▶️ How to Run:
 
 Make sure Python is installed on your system..
@@ -39,13 +47,7 @@ Run the program:
 python word_counter.py
 ---
 
-## 📁Project structure:
 
-Word counter/
-|
-|______word_counter.py
-|______README.md
----
 
 ## 📌 Sample Output:
 
